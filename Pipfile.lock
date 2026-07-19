@@ -204,11 +204,11 @@
         },
         "sentry-sdk": {
             "hashes": [
-                "sha256:68be2c29e14ae310f8a39e1a79916b6d85c6cb41dcce789d14ff05fe293e4c55",
-                "sha256:715ea91ca860a819e8d8a50a7bde3a80d0df3b4ed7b6660a20fb9a2d084188f1"
+                "sha256:096136c214c602be2b323524d30755dc5b30ec5a218a206207f33b12c05c6f11",
+                "sha256:9727d35aa83c56cd53294676fe65b96296a334c9ce107fa2142bd70f47acb265"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2.64.0"
+            "version": "==2.66.0"
         },
         "setuptools": {
             "hashes": [
